@@ -1,4 +1,4 @@
 # -*- coding:utf-8 -*-
 import tensorflow as tfhhh
 
-a ="testtestdddddd"
+a ="testtestdddddd道德的"
